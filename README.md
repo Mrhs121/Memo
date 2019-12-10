@@ -14,3 +14,8 @@ Django + vue + 前后端分离 备忘录小项目
 * python manage.py makemigrations
 * python manage.py migrate
 * python manage.py runserver
+
+
+# 界面截图
+![login](https://github.com/Mrhs121/Memo/blob/master/%E6%88%AA%E5%B1%8F2019-12-10%E4%B8%8B%E5%8D%882.26.00.png)
+![Main](https://github.com/Mrhs121/Memo/blob/master/%E6%88%AA%E5%B1%8F2019-12-09%E4%B8%8B%E5%8D%882.10.08.png)
